@@ -45,7 +45,7 @@ Each main security concept is typically demonstrated in its own Python file (e.g
 python hash_passwords.py
 ```
 ### 📂 Repository Structure
-.
+*
 ├── calculate_solar.py # (If using the initial file from rushikesh648/solar-radiation-map)
 ├── security_examples/
 │   ├── hash_passwords.py           # Code for bcrypt password hashing

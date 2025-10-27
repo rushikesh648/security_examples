@@ -44,17 +44,6 @@ Each main security concept is typically demonstrated in its own Python file (e.g
 
 python hash_passwords.py
 ```
-### 📂 Repository Structure
-*
-├── * calculate_solar.py # (If using the initial file from rushikesh648/solar-radiation-map)
-.
-├── * security_examples/
-.
-│   ├── * hash_passwords.py           # Code for bcrypt password hashing
-.
-│   └── * transaction_checker.py      # Code for fraud velocity checks
-.
-└── * README.md
 ### 🤝 Contribution
 Contributions are welcome! If you have a robust implementation for another core security measure (like proper session management or TLS enforcement), please feel free to submit a Pull Request.
 

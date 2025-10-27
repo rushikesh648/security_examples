@@ -44,27 +44,27 @@ Each main security concept is typically demonstrated in its own Python file (e.g
 
 python hash_passwords.py
 ```
-📂 Repository Structure
+### 📂 Repository Structure
 .
 ├── calculate_solar.py # (If using the initial file from rushikesh648/solar-radiation-map)
 ├── security_examples/
 │   ├── hash_passwords.py           # Code for bcrypt password hashing
 │   └── transaction_checker.py      # Code for fraud velocity checks
 └── README.md
-🤝 Contribution
+### 🤝 Contribution
 Contributions are welcome! If you have a robust implementation for another core security measure (like proper session management or TLS enforcement), please feel free to submit a Pull Request.
 
-Fork the repository.
+* Fork the repository.
 
-Create your feature branch (git checkout -b feature/AmazingFeature).
+* Create your feature branch (git checkout -b feature/AmazingFeature).
 
-Commit your changes (git commit -m 'Add some AmazingFeature').
+* Commit your changes (git commit -m 'Add some AmazingFeature').
 
 Push to the branch (git push origin feature/AmazingFeature).
 
 Open a Pull Request.
 
-📄 License
+### 📄 License
 This project is licensed under the MIT License - see the LICENSE.md file .
 
 
